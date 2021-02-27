@@ -5,4 +5,4 @@ I’m currently enrolled in the Product Management Nano Degree program offered b
 
 
 ## In this course I learned: 
--  Pitch a product vision. *(The final project can be found in the "Pitch a product vision" folder)*
+-  Pitch a product vision. 
