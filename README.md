@@ -6,4 +6,4 @@ My interest in product management started when I was working on my graduation pr
 
 ## In this course I learned: 
 -  Pitch a product vision. 
--  Run a Design Sprint.
+-  Run a design sprint.
