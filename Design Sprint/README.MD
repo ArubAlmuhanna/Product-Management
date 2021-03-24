@@ -8,6 +8,13 @@ In this project, learners are asked to run a user-centered design sprint. The de
 
 - The presentaion slides in PDF.
 
+
+# The Sprint Storyboard: 
+
+
+[<img src="https://user-images.githubusercontent.com/67848891/112342017-f6688d80-8cd2-11eb-8828-17cb70642c01.png" width="650" height="500" >]
+
+
 # Sample of the final protoype: 
 
 
@@ -15,9 +22,3 @@ In this project, learners are asked to run a user-centered design sprint. The de
 
 
 [<img src="https://user-images.githubusercontent.com/67848891/112341543-8eb24280-8cd2-11eb-91a5-7965e3738f37.png" width="500" height="300" >]
-
-
-# The Sprint Storyboard: 
-
-
-[<img src="https://user-images.githubusercontent.com/67848891/112342017-f6688d80-8cd2-11eb-8828-17cb70642c01.png" width="500" height="300" >]
