@@ -12,7 +12,7 @@ In this project, learners are asked to run a user-centered design sprint. The de
 # The Sprint Storyboard: 
 
 
-[<img src="https://user-images.githubusercontent.com/67848891/112342017-f6688d80-8cd2-11eb-8828-17cb70642c01.png" width="650" height="500" >]
+<img src="https://user-images.githubusercontent.com/67848891/112342017-f6688d80-8cd2-11eb-8828-17cb70642c01.png" width="650" height="500" >
 
 
 # Sample of the final protoype: 
