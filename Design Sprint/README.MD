@@ -1,4 +1,3 @@
-![A2](https://user-images.githubusercontent.com/67848891/112341275-53b00f00-8cd2-11eb-8bae-cc96351cf26f.png)
 # Run a Design Sprint 
 
 This is the final project in the Product Management Nano Degree by Udacity.
@@ -13,7 +12,6 @@ In this project, learners are asked to run a user-centered design sprint. The de
 
 
 [<img src="https://user-images.githubusercontent.com/67848891/112339183-7e00cd00-8cd0-11eb-92c9-232d42fe98bf.png" width="500" height="300" >]
-
 
 
 [<img src="https://user-images.githubusercontent.com/67848891/112341543-8eb24280-8cd2-11eb-91a5-7965e3738f37.png)" width="500" height="300" >]
