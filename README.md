@@ -10,7 +10,7 @@ My interest in product management started when I was working on my graduation pr
 
 ## The Course Syllabus:
 
-
+**Product Management Nano Degree**
 
 [<img src="https://user-images.githubusercontent.com/67848891/112593206-35542b80-8e18-11eb-8a8c-169d4419c1d8.png" width="200" height="100" >](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Product+Manager+Nanodegree+Program+Syllabus.pdf)
 
