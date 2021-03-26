@@ -7,3 +7,11 @@ My interest in product management started when I was working on my graduation pr
 ## In this course I learned: 
 -  Pitch a product vision. 
 -  Run a design sprint.
+
+## The Course Syllabus:
+
+
+
+[<img src="https://user-images.githubusercontent.com/67848891/112593206-35542b80-8e18-11eb-8a8c-169d4419c1d8.png" width="200" height="49" >](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Product+Manager+Nanodegree+Program+Syllabus.pdf)
+
+
