@@ -1,6 +1,6 @@
 # Product Manager Nano Degree 
 
-My interest in product management started when I developed my first product for my graduation project of my master’s degree. During that time, I worked in a self-managed Agile team for three months to build a website that aims to solve the food waste problem in Australia. In March 2021, I received the Product Manager Nano Degree offered by Udacity. I’m excited to share the projects I completed in this course. 
+My interest in product management started when I developed my first product for my graduation project of my master’s degree. During that time, I worked in a self-managed Agile team for three months to build a website that aims to solve the food waste problem in Australia. My team won the Monash University award for the best Industry Experince project. In March 2021, I received the Product Manager Nano Degree offered by Udacity. I’m excited to share the projects I completed in this course. 
 
 
 
